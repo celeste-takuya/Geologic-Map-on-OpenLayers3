@@ -6,6 +6,9 @@ OpenLayers 3で地質図をレイヤー混合モード「乗算」で表示し�
 
 　産総研知的財産管理番号：H28PRO-2035
 
+
+Internet ExplorerはJavascriptの画像演算（multiply）に対応していないため、閲覧画面の重ね合わせ機能が不完全です。
+
 本ソースコードの実行には、OpenLayersのJavascriptライブラリとスタイルシートを必要とします。公式サイトよりダウンロードしてください。
 
 
